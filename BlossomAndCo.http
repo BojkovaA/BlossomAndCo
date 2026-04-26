@@ -1,0 +1,6 @@
+@BlossomAndCo_HostAddress = http://localhost:5006
+
+GET {{BlossomAndCo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
